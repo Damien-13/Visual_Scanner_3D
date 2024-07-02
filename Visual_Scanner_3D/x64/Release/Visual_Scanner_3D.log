@@ -1,0 +1,66 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Le répertoire intermédiaire (x64\Release\) contient des fichiers partagés provenant d'un autre projet (._Visual_Scanner_3D.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  Menu_imgui.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\stdfloat(12): warning STL4038: The contents of <stdfloat> are available only with C++23 or later.
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY' : redéfinition de macro
+  (compiler le fichier source 'Menu_imgui.cpp')
+  C:\glfw-3.3.9.bin.WIN64\include\glad\glad.h(32,1):
+  voir la définition précédente de 'APIENTRY'
+  
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\stdfloat(12): warning STL4038: The contents of <stdfloat> are available only with C++23 or later.
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY' : redéfinition de macro
+  (compiler le fichier source 'main.cpp')
+  C:\glfw-3.3.9.bin.WIN64\include\glad\glad.h(32,1):
+  voir la définition précédente de 'APIENTRY'
+  
+  Génération de code en cours
+  1 of 4837 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    38 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+sqlapiusd.lib(SQLAPI.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(SQLAPI.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(SAString.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(SAString.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(SANumeric.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(SANumeric.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(SADateTime.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(SADateTime.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(samisc.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(samisc.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(ISAClient.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(ISAClient.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(odbcClient.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(odbcClient.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(oraClient.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(oraClient.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(ssClient.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(ssClient.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(ibClient.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(ibClient.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(sbClient.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(sbClient.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(db2Client.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(db2Client.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(infClient.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(infClient.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(sybClient.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(sybClient.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(myClient.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(myClient.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(pgClient.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(pgClient.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(sl3Client.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(sl3Client.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(asaClient.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(asaClient.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(cubeSqlClient.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(cubeSqlClient.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(mdbClient.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(mdbClient.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(osdep.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(osdep.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(odbcAPI.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(odbcAPI.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(oraAPI.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(oraAPI.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(ssOleDbClient.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(ssOleDbClient.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(ssNcliClient.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(ssNcliClient.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(ib5API.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(ib5API.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(sbAPI.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(sbAPI.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(db2API.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(db2API.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(infAPI.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(infAPI.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(sybAPI.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(sybAPI.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(myAPI.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(myAPI.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(pgAPI.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(pgAPI.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(sl3API.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(sl3API.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(asaAPI.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(asaAPI.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(cubeSqlAPI.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(cubeSqlAPI.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(mdbAPI.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(mdbAPI.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+sqlapiusd.lib(ssNcliAPI.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sqlapiusd.lib(ssNcliAPI.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+  Visual_Scanner_3D.vcxproj -> C:\Users\Damien MOLINIERE\OneDrive\Project scan 3D\Visual_Scanner_3D_integral_mono_tache\x64\Release\Visual_Scanner_3D.exe
